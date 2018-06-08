@@ -3,7 +3,6 @@
 <head>
 	<title>Our Love Story</title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<style type="text/css">
 		@font-face {
 			font-family: digit;
@@ -11,6 +10,7 @@
 		}
 	</style>
 	<link href="css/default.css" type="text/css" rel="stylesheet">
+
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/garden.js"></script>
     <script type="text/javascript" src="js/functions.js"></script>

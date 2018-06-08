@@ -20,9 +20,9 @@
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<meta name="author" content="To the person I love most">
 	<meta name="description" content="这是一个表白页面，仅供娱乐，不得用于商业用途">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<title>To Love</title>
 	<link rel="stylesheet" href="css/all.min.css">
+
 </head>
 <body>
 	<div class="flowtime">
